@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">Project - Minh Dang 000746305</string>
+    <string name="name">name</string>
+    <string name="year">year</string>
+    <string name="prompt_movie_name">Please enter the name of the movie!</string>
+    <string name="prompt_movie_year">Please enter the year of the movie!</string>
+    <string name="no_movies_found">No movies found!</string>
+</resources>
